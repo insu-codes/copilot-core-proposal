@@ -15,7 +15,7 @@ This repository presents a unified architecture for embedding Copilot across Mic
 
 ## 🧠 Architecture Diagram
 
-![Integrated Copilot Architecture](https://github.com/insu-codes/copilot-core-proposal/blob/main/copilot-architecture-diagram.png)
+![Integrated Copilot Architecture](https://github.com/insu-codes/copilot-core-proposal/blob/main/architecture-diagram.png)
 
 ## 🙋 Author
 
