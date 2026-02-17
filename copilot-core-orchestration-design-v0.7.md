@@ -131,5 +131,3 @@ Session Transition with Context Copy
 This ensures continuity while avoiding propagation of flawed reasoning or degraded outputs.
 
 ---
-
-Let me know if you want this formatted as a downloadable file, or if you'd like to continue with the learning layer or another system module.
