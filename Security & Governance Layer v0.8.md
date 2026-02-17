@@ -1,5 +1,3 @@
-Here’s the full English version of the Security & Governance Layer v0.8 document, ready to be saved as Security & Governance Layer v0.8.md and uploaded to your GitHub repository:
-
 ---
 
 🔐 Copilot Core – Security & Governance Layer
