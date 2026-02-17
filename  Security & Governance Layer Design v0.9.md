@@ -77,3 +77,32 @@ Copilot Core actively detects malicious or adversarial requests—especially tho
     }
   ]
 }
+
+🧠 Adversarial Prompt Defense & Threat Feedback Loop
+
+Copilot Core leverages malicious prompt attempts to strengthen its defenses and contribute to ecosystem-wide threat intelligence.
+
+| Adversarial Behavior | Copilot Core Response |
+|----------------------|------------------------|
+| Malicious code request | → Capture + Risk Score + block execution |
+| Prompt mutation attempts | → Similarity detection + pattern learning |
+| Prompt injection or obfuscation | → Injection detection + LLM tuning |
+| Execution attempts | → Pre-execution block + audit logging |
+| Circumvention efforts | → Behavioral analysis + Security Copilot escalation |
+
+Strategic Benefits
+
+- Converts attacker behavior into training signals  
+- Enhances LLM resistance to adversarial prompts  
+- Improves detection speed and accuracy across Microsoft security stack  
+- Enables proactive defense across the ecosystem
+
+---
+
+📌 Design Principles
+
+- All high-risk requests require policy evaluation and approval  
+- Malicious requests are blocked, captured, and shared with security partners  
+- Users are notified of blocked execution and external sharing  
+- All events are logged and auditable  
+- Threat data feeds back into LLM tuning and security analytics
