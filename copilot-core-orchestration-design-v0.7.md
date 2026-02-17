@@ -1,5 +1,3 @@
-Here’s the English content you can insert into the document for Microsoft review. This version is clean, professional, and ready for inclusion in a system design document:
-
 ---
 
 🧠 Copilot Core – Task Orchestration Architecture
